@@ -9,7 +9,7 @@ body main h2 {
 
 body main .container .cinnamon {
   width: 40%;
-  background-position: center;
+  position: fixed;
   box-shadow: 3px 3px 3px black;
 }
 
