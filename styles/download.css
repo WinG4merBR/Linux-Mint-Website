@@ -22,8 +22,8 @@ body main .cinnamon {
 }
 
 body main .container .description {
-  text-align: left;
-  width: 90%;
+  text-align: center;
+  width: 93%;
   font-size: 100%;
   color: green;
 }
