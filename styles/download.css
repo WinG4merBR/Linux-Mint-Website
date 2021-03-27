@@ -1,0 +1,20 @@
+body main h1 {
+  text-align: center;
+}
+
+body main h2 {
+  text-align: center;
+  color: green;
+}
+
+body main .cinnamon {
+  width: 40%;
+  background-position: center;
+}
+
+body main .description {
+  text-align: left;
+  font-size: 100%;
+  color: rgb(0, 196, 0);
+}
+
