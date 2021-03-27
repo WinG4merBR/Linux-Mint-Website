@@ -7,14 +7,14 @@ body main h2 {
   color: green;
 }
 
-body main .cinnamon {
+body main .container .cinnamon {
   width: 40%;
   background-position: center;
+  box-shadow: 3px 3px 3px black;
 }
 
-body main .description {
-  text-align: left;
+body main .container .description {
+  text-align: center;
   font-size: 100%;
   color: rgb(0, 196, 0);
 }
-
